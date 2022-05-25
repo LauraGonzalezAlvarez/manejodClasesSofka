@@ -1,5 +1,6 @@
 # manejodClasesSofka
-Taller práctico Manejo de Clases y Objetos en Java
+Taller práctico Manejo de Clases y Objetos en Java.
+
 En el presente trabajo se entregan 6 Clases en total, con sus metodos y atributos de tipo public, privado, protegido
 en el idioma inglés y documentado por medio de JavaDoc en Español. A continuación el enunciado del ejercicio
 
